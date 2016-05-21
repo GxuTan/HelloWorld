@@ -1,2 +1,2 @@
 # HelloWorld
-This one is used to help the basic information in Java.
+This one is used to understand the basic information in Java.
