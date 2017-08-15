@@ -1,0 +1,15 @@
+1 bubble sort
+
+public static void bubblesort(int [] nu){
+		int len=nu.length;
+		for(int i=0;i<len;i++){
+			for(int j=0;j<len;j++){
+				if(nu[i]<nu[j]){
+				int tem=nu[i];
+				nu[i]=nu[j];
+				nu[j]=tem;
+				}
+			}
+		}
+	}
+	
